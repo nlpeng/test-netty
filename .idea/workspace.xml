@@ -7,27 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfe8bc8b-a93e-4912-9edc-f4e9c0f026db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/testnetty_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/testnetty_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_32_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test-netty.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnetty/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/config/NettyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/processor/MyWebSocketChannelHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/processor/MyWebSocketHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnetty/src/main/webapp/websocket.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnetty/testnetty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/processor/MyWebSocketChannelHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/processor/MyWebSocketChannelHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testnetty/src/main/webapp/websocket.html" beforeDir="false" afterPath="$PROJECT_DIR$/testnetty/src/main/webapp/websocket.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/testnetty/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,6 +40,7 @@
           <entry key="html" value="2" />
           <entry key="java" value="42" />
           <entry key="jsp" value="3" />
+          <entry key="md" value="1" />
           <entry key="pom" value="2" />
           <entry key="xml" value="2" />
         </counts>
@@ -67,6 +51,7 @@
           <entry key="HTML" value="2" />
           <entry key="JAVA" value="42" />
           <entry key="JSP" value="3" />
+          <entry key="Markdown" value="1" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
@@ -74,6 +59,8 @@
         <counts>
           <entry key="java" value="213" />
           <entry key="jsp" value="28" />
+          <entry key="md" value="157" />
+          <entry key="txt" value="18" />
           <entry key="xml" value="19" />
         </counts>
       </usages-collector>
@@ -81,6 +68,8 @@
         <counts>
           <entry key="JAVA" value="213" />
           <entry key="JSP" value="28" />
+          <entry key="Markdown" value="157" />
+          <entry key="PLAIN_TEXT" value="18" />
           <entry key="XML" value="19" />
         </counts>
       </usages-collector>
@@ -104,23 +93,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final-sources.jar!/io/netty/channel/nio/NioEventLoopGroup.java">
+        <entry file="file://$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/processor/MyWebSocketChannelHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="38" column="92" selection-start-line="38" selection-start-column="92" selection-end-line="38" selection-end-column="92" />
-              <folding>
-                <element signature="e#1713#1714#0" expanded="true" />
-                <element signature="e#1736#1737#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="440">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/processor/MyWebSocketChannelHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="176">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -219,6 +207,7 @@
         <option value="$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/Main.java" />
         <option value="$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/config/NettyConfig.java" />
         <option value="$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/processor/MyWebSocketHandler.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -282,56 +271,6 @@
             </path>
             <path>
               <item name="test-netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-netty" type="462c0819:PsiDirectoryNode" />
-              <item name="testnetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-netty" type="462c0819:PsiDirectoryNode" />
-              <item name="testnetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-netty" type="462c0819:PsiDirectoryNode" />
-              <item name="testnetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-netty" type="462c0819:PsiDirectoryNode" />
-              <item name="testnetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-netty" type="462c0819:PsiDirectoryNode" />
-              <item name="testnetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-netty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-netty" type="462c0819:PsiDirectoryNode" />
-              <item name="testnetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="netty" type="462c0819:PsiDirectoryNode" />
-              <item name="processor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-netty" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -347,7 +286,7 @@
     <property name="SearchEverywhereHistoryKey" value="messageReceived&#9;PSI&#9;JAVA://com.ferry.netty.MyWebSocketHandler#messageReceived&#10;INSTANCE&#9;PSI&#9;JAVA://com.sun.java.swing.plaf.gtk.GTKLookAndFeel.GnomeLayoutStyle#INSTANCE" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545740714158" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545740882222" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -484,15 +423,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545707318657</updated>
-      <workItem from="1545707320283" duration="8984000" />
+      <workItem from="1545707320283" duration="9539000" />
     </task>
+    <task id="LOCAL-00001" summary="1.0 v test netty">
+      <created>1545740832928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545740832929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8984000" />
+    <option name="totallyTimeSpent" value="9539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -571,6 +519,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0 v test netty" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0 v test netty" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.10.6.Final/netty-3.10.6.Final.jar!/org/jboss/netty/channel/group/DefaultChannelGroup.class">
@@ -857,8 +809,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testnetty/src/main/java/com/ferry/netty/processor/MyWebSocketChannelHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        <state relative-caret-position="440">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
