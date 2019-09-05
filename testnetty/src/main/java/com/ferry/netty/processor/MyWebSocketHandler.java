@@ -127,7 +127,7 @@ public class MyWebSocketHandler extends SimpleChannelInboundHandler<Object> {
      * @param res
      */
     private void sendHttpResponse(ChannelHandlerContext ctx, FullHttpRequest req,
-                                  DefaultFullHttpResponse res) {
+                                    DefaultFullHttpResponse res) {
         if (res.getStatus().code() != 200) {
             ByteBuf buf = Unpooled.copiedBuffer(res.getStatus().toString(), CharsetUtil.UTF_8);
             res.content().writeBytes(buf);

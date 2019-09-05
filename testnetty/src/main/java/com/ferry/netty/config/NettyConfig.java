@@ -8,7 +8,7 @@ import io.netty.util.concurrent.GlobalEventExecutor;
 /**
  * Netty config 文件 存储整个工程的全局配置
 
- * @author Ferry NLP
+ * @author Ferryman NLP
  * @create 2018-12-25
  * @since 1.0v
  **/
